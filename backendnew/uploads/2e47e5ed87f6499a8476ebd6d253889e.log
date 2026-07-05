@@ -1,0 +1,6 @@
+2026-07-04 10:20:01 INFO User login successful
+2026-07-04 10:21:15 WARN Failed login from 192.168.1.25
+2026-07-04 10:22:18 ERROR SQL Injection attempt from 203.0.113.5
+2026-07-04 10:22:30 WARN Failed login from 192.168.1.25
+2026-07-04 10:22:45 WARN Failed login from 192.168.1.25
+2026-07-04 10:23:00 WARN Failed login from 192.168.1.25
