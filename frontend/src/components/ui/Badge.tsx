@@ -1,4 +1,4 @@
-import React from "react";
+
 import { severityStyles } from "../../utils/formatters";
 
 export function SeverityBadge({ severity }: { severity: string | null | undefined }) {
